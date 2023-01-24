@@ -1,0 +1,17 @@
+
+W
+java:S1854";Remove this useless assignment to local variable "funcao2".(‰ÄÄY8®ˆºÛÇ/
+w
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(‰ÄÄY8³ˆºÛÇ/
+W
+java:S1612";Replace this lambda with method reference 'String::length'.(‰ÄÄY8òÌ¯ÛÇ/
+H
+java:S1481",Remove this unused "funcao2" local variable.(‰ÄÄY8³ˆºÛÇ/
+M	java:S106#"9Replace this use of System.out or System.err by a logger.(ð÷š
+V	java:S125!"<This block of commented-out lines of code should be removed.(†ÂŒ«ÿÿÿÿÿ
+M	java:S106%"9Replace this use of System.out or System.err by a logger.(â’ß~
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(Ìï…øÿÿÿÿ8–æ¼ÛÇ/
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8ÙÚÈÛÇ/
+Z
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8ÙÚÈÛÇ/

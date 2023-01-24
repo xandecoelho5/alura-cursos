@@ -30,10 +30,8 @@ class AlunoTest {
 
     @Test
     void naoDeveriaPermitirAdicionar3Telefones() {
-        assertThrows(IllegalArgumentException.class, () -> {
-            this.aluno.adicionarTelefone("11", "999999999");
-            this.aluno.adicionarTelefone("11", "888888888");
-            this.aluno.adicionarTelefone("11", "777777777");
-        });
+        this.aluno.adicionarTelefone("11", "999999999");
+        this.aluno.adicionarTelefone("11", "888888888");
+        assertThrows(MaximoTelefonesAtingido.class, () -> this.aluno.adicionarTelefone("11", "777777777"));
     }
 }

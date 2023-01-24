@@ -1,0 +1,25 @@
+
+S
+java:S18543"8Remove this useless assignment to local variable "list".(Øç¼öøÿÿÿÿ
+T
+java:S1854("9Remove this useless assignment to local variable "media".(»ªÁšüÿÿÿÿ
+U
+java:S1854&":Remove this useless assignment to local variable "stream".(îşùÿÿÿÿ
+V	java:S125$"<This block of commented-out lines of code should be removed.( ÔÛ©úÿÿÿÿ
+F
+java:S1481&"+Remove this unused "stream" local variable.(îşùÿÿÿÿ
+E
+java:S1481("*Remove this unused "media" local variable.(»ªÁšüÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(‚¨Ö§
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(·êÜöüÿÿÿÿ
+D
+java:S14813")Remove this unused "list" local variable.(Øç¼öøÿÿÿÿ
+]
+java:S16129";Replace this lambda with method reference 'Curso::getNome'.(óÀÑ¯úÿÿÿÿ8­È¾ßÇ/
+_
+java:S16129"=Replace this lambda with method reference 'Curso::getAlunos'.(óÀÑ¯úÿÿÿÿ8ºÈ¾ßÇ/
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(›Ù—¡üÿÿÿÿ8ÊÈ¾ßÇ/
+Y
+java:S1128"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8¤ÂßÇ/
+M
+java:S3958&"2Refactor the code so this stream pipeline is used.(îşùÿÿÿÿ

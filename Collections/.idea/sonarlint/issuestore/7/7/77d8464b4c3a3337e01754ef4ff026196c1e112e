@@ -1,0 +1,7 @@
+
+V
+java:S1854"9Remove this useless assignment to local variable "aulas".(åŽÜà8´’è¥Ó/
+G
+java:S1481"*Remove this unused "aulas" local variable.(åŽÜà8µ’è¥Ó/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥Æâ¸8Ÿ·…¥Ó/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8µ’è¥Ó/

@@ -1,0 +1,14 @@
+
+Q
+java:S1854";Remove this useless assignment to local variable "monitor".(Ç…
+U
+java:S1854"@Remove this useless assignment to local variable "estoqueAtual".(éôºa
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ù€•
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éŠÎÇıÿÿÿÿ
+F
+java:S1481"1Remove this unused "estoqueAtual" local variable.(éôºa
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾«Ú÷ùÿÿÿÿ
+B
+java:S1481",Remove this unused "monitor" local variable.(Ç…
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ

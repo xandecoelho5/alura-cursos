@@ -5,7 +5,6 @@ import br.com.alura.escola.shared.dominio.CPF;
 import br.com.alura.escola.shared.dominio.evento.TipoDeEvento;
 
 import java.time.LocalDateTime;
-import java.util.HashMap;
 import java.util.Map;
 
 public class AlunoMatriculado implements Evento {

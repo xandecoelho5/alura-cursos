@@ -8,6 +8,7 @@ import java.time.format.DateTimeFormatter;
 
 public class LogDeAlunoMatriculado extends Ouvinte {
 
+    @Override
     public void reageAo(Evento evento) {
         String momentoFormatado = evento.momento().format(DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm"));
         System.out.printf("Aluno com CPF %s matriculado em: %s%n", ((AlunoMatriculado) evento).getCpfDoAluno(), momentoFormatado);

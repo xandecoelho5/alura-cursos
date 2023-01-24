@@ -5,7 +5,7 @@ import br.com.alura.escola.dominio.aluno.CPF;
 import br.com.alura.escola.infra.aluno.RepositorioDeAlunosEmMemoria;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class MatricularAlunoTest {
 

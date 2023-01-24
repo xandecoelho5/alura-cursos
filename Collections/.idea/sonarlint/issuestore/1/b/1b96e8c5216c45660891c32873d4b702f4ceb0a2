@@ -1,0 +1,7 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(öº”ú8ˆ˜Ä«Ó/
+I
+java:S2201",The return value of "contains" must be used.(„ Ë‰8¹Á«Ó/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Š‘”¤8Ÿ¹Á«Ó/
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8Š˜Ä«Ó/
